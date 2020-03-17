@@ -1,0 +1,343 @@
+[
+  {
+    "cloud_score": 0.0005933582272317691,
+    "date": "2013-04-25T18:41:15",
+    "id": "LC8_L1T_TOA/LC80430332013115LGN02",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=355623515fb4fcd6e93cf49d0d9a8f3f&token=02515607eaf6351bd7b00d09a2dee404"
+  },
+  {
+    "cloud_score": 0.03185519266981537,
+    "date": "2013-12-05T18:41:07",
+    "id": "LC8_L1T_TOA/LC80430332013339LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=d512920efaf68dc8b153b6cfd7088291&token=3b2cccdad184a49bca0ce271ad070ad0"
+  },
+  {
+    "cloud_score": 0.06657304792414792,
+    "date": "2013-12-21T18:40:57",
+    "id": "LC8_L1T_TOA/LC80430332013355LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=da7c7d011fcde7dd42a20e3b03e2f725&token=8e7e82852a72a7dc0755b0f8a9930153"
+  },
+  {
+    "cloud_score": 0.07853096137412463,
+    "date": "2014-01-06T18:40:49",
+    "id": "LC8_L1T_TOA/LC80430332014006LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=987daad0bb27d2f557ae46605afa76c5&token=28374a5bfc9b2cb2fb7579aca86fede1"
+  },
+  {
+    "cloud_score": 0.021768102806875293,
+    "date": "2014-01-22T18:40:38",
+    "id": "LC8_L1T_TOA/LC80430332014022LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=18bc12dd3c3d9ea66f6db0587dfc3d30&token=37a4205c70ae462eebf625839bba2199"
+  },
+  {
+    "cloud_score": 0.0007416977840397113,
+    "date": "2014-02-23T18:40:14",
+    "id": "LC8_L1T_TOA/LC80430332014054LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=50a9642c772527eb652f7d25c4ae4737&token=487facc810d24988a7e3abdf9b3dd55f"
+  },
+  {
+    "cloud_score": 0.0005933582272317691,
+    "date": "2014-03-11T18:40:02",
+    "id": "LC8_L1T_TOA/LC80430332014070LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=d24c4b9c54322bfe9ec7ecbe1449ce73&token=e8c09d02af0137f3027e510fc14f6b7d"
+  },
+  {
+    "cloud_score": 0.0005933582272317691,
+    "date": "2014-04-12T18:39:31",
+    "id": "LC8_L1T_TOA/LC80430332014102LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=a53f68545246ba0091d57353135b4978&token=d4ee03a08327ed963f5935b07a681e64"
+  },
+  {
+    "cloud_score": 0.0005933582272317691,
+    "date": "2014-04-28T18:39:17",
+    "id": "LC8_L1T_TOA/LC80430332014118LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=9e4f8d316f249bd69dd4d214f96cf45f&token=9082e190d79f23aabb9b435544e756f7"
+  },
+  {
+    "cloud_score": 0.006081921829125632,
+    "date": "2014-10-21T18:39:43",
+    "id": "LC8_L1T_TOA/LC80430332014294LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=1796aaaaf1fec513c123efc0e546d1f7&token=ac99b7dcac87b2d3e6510b478d11d4dc"
+  },
+  {
+    "cloud_score": 0.1242753903511809,
+    "date": "2014-12-08T18:39:37",
+    "id": "LC8_L1T_TOA/LC80430332014342LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=6417f5bf084f105738b2e32c592b80e9&token=43011e56da674d0a956f80edb5ca92ef"
+  },
+  {
+    "cloud_score": 0.0007416977840397113,
+    "date": "2015-01-25T18:39:27",
+    "id": "LC8_L1T_TOA/LC80430332015025LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=5358164fe44315d59980e753862899bf&token=80aaa68cfa5b9d21ffaa396b7c504e01"
+  },
+  {
+    "cloud_score": 0.0005933582272317691,
+    "date": "2015-02-26T18:39:17",
+    "id": "LC8_L1T_TOA/LC80430332015057LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=658f5eddc92180818653aface735fff0&token=76023f18babe8ff7686126a8936b3e37"
+  },
+  {
+    "cloud_score": 0.002891748772126592,
+    "date": "2015-03-14T18:39:05",
+    "id": "LC8_L1T_TOA/LC80430332015073LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=9a33c4ee451ba0a4f2333b5b7489f9fb&token=84cb3292726217243c2eb9af37245afd"
+  },
+  {
+    "cloud_score": 0.0004450186704238268,
+    "date": "2015-03-30T18:38:56",
+    "id": "LC8_L1T_TOA/LC80430332015089LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=53fdca1698fcf8f965dc706f2cc53dfa&token=cdbb5b6363c4be7cec993bd5e88e3b93"
+  },
+  {
+    "cloud_score": 0.0004450186704238268,
+    "date": "2015-04-15T18:38:53",
+    "id": "LC8_L1T_TOA/LC80430332015105LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=dad31376fdcee9322b2b6bf427c93523&token=c8bcf26964c0f25cdfbbeaff1108a5d1"
+  },
+  {
+    "cloud_score": 0.46971226198045524,
+    "date": "2015-10-08T18:39:31",
+    "id": "LC8_L1T_TOA/LC80430332015281LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=ac4dbe62584e2125406f57ad2874082f&token=ae5aa6634abfb3bc9a77f3e34b60cfe6"
+  },
+  {
+    "cloud_score": 0.0008900373408476536,
+    "date": "2016-01-12T18:39:34",
+    "id": "LC8_L1T_TOA/LC80430332016012LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=b475dada2280ad973eceee0976606f0e&token=de26d2f397f95ba47e08e76eac62c067"
+  },
+  {
+    "cloud_score": 0.0007416977840397113,
+    "date": "2016-02-13T18:39:27",
+    "id": "LC8_L1T_TOA/LC80430332016044LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=647705ea4e32c11f7d7898bcbf0d8562&token=b68e1be033b399279f86c5654d37de65"
+  },
+  {
+    "cloud_score": 0.0005933582272317691,
+    "date": "2016-02-29T18:39:23",
+    "id": "LC8_L1T_TOA/LC80430332016060LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=b9eb0a5962e5f29edbea017747c8d2f9&token=db4a5a4ef16293b7ab51e7fcc54a1c0f"
+  },
+  {
+    "cloud_score": 0.0007416977840397113,
+    "date": "2016-03-16T18:39:19",
+    "id": "LC8_L1T_TOA/LC80430332016076LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=65944c7de3953c471fd92ffecacf9fbe&token=99a462ab8c6e6a9ebf3eb127304e3ed7"
+  },
+  {
+    "cloud_score": 0.0005933582272317691,
+    "date": "2016-04-01T18:39:09",
+    "id": "LC8_L1T_TOA/LC80430332016092LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=70fc9f2aab09a2a19e0b482ad1845770&token=41efb3d1a91fd4470eb57f0b6bd6f430"
+  },
+  {
+    "cloud_score": 0.00029667911361588455,
+    "date": "2016-04-17T18:39:04",
+    "id": "LC8_L1T_TOA/LC80430332016108LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=f5152dbd1f22137c5430b5ec887144cf&token=d981b50f5b8ecab2bf6f701d4c4479fd"
+  },
+  {
+    "cloud_score": 0.0005933582272317691,
+    "date": "2016-05-19T18:39:05",
+    "id": "LC8_L1T_TOA/LC80430332016140LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=6afc5f618f925a82bda809cdf1c81f91&token=bf0e68188c87f360880311690e466798"
+  },
+  {
+    "cloud_score": 0.0010383768976555958,
+    "date": "2016-10-10T18:39:48",
+    "id": "LC8_L1T_TOA/LC80430332016284LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=3471d1945502b6845b1b3fcfa84f7a58&token=4ab9c09f204e0ecd6a1bbf2f93671369"
+  },
+  {
+    "cloud_score": 0.02202347953408583,
+    "date": "2016-10-26T18:39:51",
+    "id": "LC8_L1T_TOA/LC80430332016300LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=d5e59bddff581f388780274d481cbe8b&token=b2122b081437639918728beebd9f5a34"
+  },
+  {
+    "cloud_score": 0.006675280056357402,
+    "date": "2016-11-11T18:39:49",
+    "id": "LC8_L1T_TOA/LC80430332016316LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=6cace657abc27965beb2286474c31947&token=de418f579241c75624a24177c2ddd83c"
+  },
+  {
+    "cloud_score": 0.010680448090171843,
+    "date": "2016-12-29T18:39:43",
+    "id": "LC8_L1T_TOA/LC80430332016364LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=32426d094eb2dd136b19ef9fde45cb8b&token=5ab2ea1893b2c1257cf7ef6b7ab8ccc3"
+  },
+  {
+    "cloud_score": 0.004005168033814441,
+    "date": "2017-01-14T18:39:39",
+    "id": "LC8_L1T_TOA/LC80430332017014LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=bf55cbfb48509aee3c5bc12a6f3fb7e5&token=bd0da9066d8e4116469fda9c430de7ad"
+  },
+  {
+    "cloud_score": 0.0005933582272317691,
+    "date": "2017-04-04T18:39:03",
+    "id": "LC8_L1T_TOA/LC80430332017094LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=74a7177ce96213fdfd4b13d45d496490&token=918623db8bb5bf403c8f9c33d2c4336f"
+  },
+  {
+    "cloud_score": 0.12542080441923908,
+    "date": "2017-04-20T18:38:53",
+    "id": "LC8_L1T_TOA/LC80430332017110LGN00",
+    "resource": {
+      "dataset": "LC8_L1T_TOA",
+      "planet": "earth"
+    },
+    "service_version": "v1",
+    "url": "https://earthengine.googleapis.com/api/thumb?thumbid=f782d16902c387f81c1705c9737e8562&token=7ea14fe1310d88ac0b8351dec62e13d1"
+  }
+]

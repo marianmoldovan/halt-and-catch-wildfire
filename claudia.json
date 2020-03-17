@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "halt-and-catch-wildfirebot-executor",
+    "name": "halt-and-catch-wildfirebot",
+    "region": "eu-west-1"
+  },
+  "api": {
+    "id": "rj4mxwqw68",
+    "module": "index"
+  }
+}

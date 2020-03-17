@@ -1,0 +1,39 @@
+{
+  "name": "bot-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "check": "eslint .",
+    "create": "claudia create --region eu-west-1 --api-module index --name halt-and-catch-wildfirebot",
+    "deploy": "claudia update",
+    "configure-telegram": "claudia update --configure-telegram-bot",
+    "load-from-json": "claudia set-version --version production --set-env-from-json production.json",
+    "check-production": "claudia --name halt-and-catch-wildfirebot --version production",
+    "test": "mocha ./tests/*.js --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beeva-marianmoldovan/serverless-chatbot-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beeva-marianmoldovan/serverless-chatbot-boilerplate/issues"
+  },
+  "homepage": "https://github.com/beeva-marianmoldovan/serverless-chatbot-boilerplate#readme",
+  "dependencies": {
+    "async-redis": "^1.1.7",
+    "axios": "^0.19.2",
+    "claudia-bot-builder": "^4.5.0",
+    "dialogflow": "^1.2.0",
+    "i18n": "^0.8.5",
+    "redis": "^3.0.2",
+    "uuid": "^7.0.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^6.8.0",
+    "mocha": "^7.1.0"
+  }
+}

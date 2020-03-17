@@ -1,0 +1,8 @@
+{
+  "start": "Hi, welcome to Halt and Catch Wildfire bot.",
+  "fallback": "Sorry, didn't get that. Again, do you see fire?",
+  "start_and_question": "Hi, welcome to Halt and Catch Wildfire bot. You will help finding when the fire originated. Do you see a fire in the following picture?",
+  "question": "Can you see fire?",
+  "finish": "Great, you found it, fire started on %s. If you want to start again, just type /start",
+  "error_with_game": "Something's not right. Please start again"
+}
