@@ -30,6 +30,14 @@ const getPictureFromURI = (url) => {
   return new telegramTemplate.Photo(url).get()
 }
 
+/*
+  Input interface: {
+    action.name: name of the response action,
+    action.payload: extra data for storing media
+    action.arg: additional data for text
+  }
+  Output interface: Telegram Response
+*/
 module.exports = async (message) => {
   console.log('-> rg')
   switch (message.action.name) {

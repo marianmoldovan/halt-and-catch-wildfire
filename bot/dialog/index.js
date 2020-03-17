@@ -20,6 +20,16 @@ const handler = {
   },
 }
 
+/*
+  Input interface: {
+    nlu.intentName: intent detected
+    memory: state
+  }
+  Output interface: {
+    action: response to send to the user
+    memory: state needed to persist
+  }
+*/
 module.exports = async (message) => {
   const fireGame = new FireGame(message.memory.game || {})
   await handler[message.nlu.intentName](message, fireGame)

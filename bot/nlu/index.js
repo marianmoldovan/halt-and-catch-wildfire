@@ -3,6 +3,14 @@ const path = require('path')
 const uuid = require('uuid')
 const sessionId = uuid.v4()
 
+/*
+  Input interface: {
+    text: input text from user
+  }
+  Output interface: {
+    nlu.intentName: intent detected
+  }
+*/
 module.exports = async (message) => {
   console.log('-> nlu')
   const sessionClient = new dialogflow.SessionsClient({
