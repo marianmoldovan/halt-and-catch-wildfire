@@ -24,7 +24,7 @@
   "homepage": "https://github.com/beeva-marianmoldovan/serverless-chatbot-boilerplate#readme",
   "dependencies": {
     "async-redis": "^1.1.7",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "claudia-bot-builder": "^4.5.0",
     "dialogflow": "^1.2.0",
     "i18n": "^0.8.5",
