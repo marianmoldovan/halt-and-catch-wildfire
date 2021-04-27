@@ -28,7 +28,7 @@
     "claudia-bot-builder": "^4.5.0",
     "dialogflow": "^1.2.0",
     "i18n": "^0.8.5",
-    "redis": "^3.0.2",
+    "redis": "^3.1.1",
     "uuid": "^7.0.2"
   },
   "devDependencies": {
